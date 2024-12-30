@@ -66,7 +66,6 @@ Steps to Run the Dashboards
   - Loan approval trends over time.
   - Geographic distribution of loan approvals.
   
-![Loan Approval Analysis Dashboard](Images/Loan_Approval_Analysis_Dashboard.png)
 
 ---
 
@@ -77,7 +76,6 @@ Steps to Run the Dashboards
   - Trends in job creation over time.
   - Top industries supporting jobs.
 
-![Job Support and Impact Dashboard](Images/Job_Support_and_Impact_Dashboard.png)
 
 ---
 
@@ -87,8 +85,6 @@ Steps to Run the Dashboards
   - Bar charts for loan approvals and job support by top states.
   - Map visualization of loan distribution by state.
   - Time-series analysis of job support trends.
-
-![Geographic Insights Dashboard](Images/Geographic_Insights_Dashboard.png)
 
 
 --------------------------------------------------------------------------------------------------
